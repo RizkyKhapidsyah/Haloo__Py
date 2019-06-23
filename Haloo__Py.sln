@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Haloo__Py", "Haloo__Py.pyproj", "{A85D8EE3-9B81-4721-A76D-55CA89C2AF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A85D8EE3-9B81-4721-A76D-55CA89C2AF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85D8EE3-9B81-4721-A76D-55CA89C2AF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {738D2F4D-7503-489A-ACA1-36C0B68338B2}
+	EndGlobalSection
+EndGlobal
